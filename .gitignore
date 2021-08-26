@@ -180,5 +180,8 @@ cython_debug/
 pyvenv.cfg
 pip-selfcheck.json
 
+data
+
+
 # End of https://www.toptal.com/developers/gitignore/api/linux,virtualenv,jupyternotebooks,python
 
